@@ -1,0 +1,28 @@
+
+.CurrentParties h1 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+.CurrentParties {
+    background-color: white;
+}
+
+.CurrentParties .tables-container {
+    margin: auto;
+    width: 90%;
+    min-width: 1000px;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+.CurrentParties .miniTable {
+    width: 450px;
+    padding: 15px;
+}
+
+.CurrentParties .miniTable .raidinfo {
+    font-weight: bolder;
+    font-size: 20px;
+}

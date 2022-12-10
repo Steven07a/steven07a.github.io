@@ -1,0 +1,44 @@
+
+.tables-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.add-remove-buttons{
+    align-self: center;
+}
+
+h2{
+    font-size: 30px;
+    font-style: bold;
+}
+
+.Raidsfinder{
+    background-color: white;
+}
+
+.inputAndSubmit {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.partyName {
+    width: 30%;
+    height: 50px;
+    /* margin-top: 10px; */
+    margin-right: 10px;
+    border: 2px solid black;
+}
+
+.submitButton {
+    background-color: blue;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    color: white;
+    /* margin-top: 10px; */
+}
